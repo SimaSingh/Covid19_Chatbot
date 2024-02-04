@@ -14,7 +14,7 @@ This project is a chatbot developed using Streamlit, designed to provide informa
 
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
+   git clone [this-repository-url]
    ```
 2. Navigate to the project directory:
    ```
