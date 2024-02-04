@@ -35,14 +35,13 @@ This project is a chatbot developed using Streamlit, designed to provide informa
    ```
    This file is necessary for the application to authenticate with OpenAI's API.
 
-2. To run the application, use the following command:
+2. **Covid-19 Workplace Safety Plan**: Download the "2022-covid-19-workplace-safety-plan.pdf" from the following URL and store it in a folder named "data" under the root directory of your project.
+   - Download URL: [2022-covid-19-workplace-safety-plan.pdf](https://www.dol.gov/sites/dolgov/files/general/plans/2022-covid-19-workplace-safety-plan.pdf)
+
+3. To run the application, use the following command:
    ```
    streamlit run covid19_chatbot.py
    ```
-
-## Contributing
-Feel free to fork the repository and submit pull requests.
-
 
 ## Acknowledgments
 - OpenAI for the API
