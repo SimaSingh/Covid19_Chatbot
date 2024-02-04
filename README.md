@@ -40,10 +40,6 @@ This project is a chatbot developed using Streamlit, designed to provide informa
    streamlit run covid19_chatbot.py
    ```
 
-## Contributing
-Feel free to fork the repository and submit pull requests.
-
-
 ## Acknowledgments
 - OpenAI for the API
 - Streamlit for the web application framework
